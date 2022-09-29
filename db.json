@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "f56bdd88-b05e-458a-bf13-277d3f0066c5",
+      "category": "nature",
+      "title": "Dundas Peak",
+      "description": "Talk a walk to the peak",
+      "location": "Hamilton",
+      "date": "October 9, 2022 ",
+      "time": "12:00",
+      "organizer": "Yanek K"
+    },
+    {
+      "id": "2dfe82de-08d6-407f-b259-982ee513efec",
+      "category": "education",
+      "title": "Shucking ",
+      "description": "Learn to schuk with Andrew ",
+      "location": "Toronto",
+      "date": "12:00",
+      "time": "20 October 2022",
+      "organizer": "Yanek K"
     }
   ]
 }

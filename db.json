@@ -49,6 +49,16 @@
       "date": "12:00",
       "time": "20 October 2022",
       "organizer": "Yanek K"
+    },
+    {
+      "id": "6e942231-23a7-4b8f-bcd1-918c397f1513",
+      "category": "housing",
+      "title": "Learning Luncheon",
+      "description": "A New Event",
+      "location": "Toronto",
+      "date": "12 Septmeber 2022",
+      "time": "12pm",
+      "organizer": "Yanek K"
     }
   ]
 }
